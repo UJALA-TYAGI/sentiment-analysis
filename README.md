@@ -1,1 +1,1 @@
-# sentiment-analysis
+The goal of this project is to classify sentiments. Sentiment classification/analysis is text mining that recognises and extracts subjective information from source material, allowing a company to better understand the social sentiment of its brand, product, or service while monitoring online conversations.
